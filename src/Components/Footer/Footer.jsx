@@ -43,7 +43,7 @@ export default function Footer() {
                 <Image style={{ height: '44px' }} src={logo} alt="logo" />
                 <Text>© Buy Me a Coffee : Nagasai Ayyala</Text>
                 <Stack direction={'row'} spacing={6}>
-                    <SocialButton label={'Github'} href={'https://https://github.com/nagasaiayyala'}>
+                    <SocialButton label={'Github'} href={'https://github.com/nagasaiayyala'}>
                         <FaGithub />
                     </SocialButton>
                     <SocialButton label={'Snapchat'} href={'https://www.linkedin.com/in/nagasai-ayyala-6a8b9928b'}>
