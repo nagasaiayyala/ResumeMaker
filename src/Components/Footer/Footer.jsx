@@ -41,15 +41,15 @@ export default function Footer() {
                 justify={{ base: 'center', md: 'space-between' }}
                 align={{ base: 'center', md: 'center' }}>
                 <Image style={{ height: '44px' }} src={logo} alt="logo" />
-                <Text>© Buy Me a Coffee : Shubham Thakur</Text>
+                <Text>© Buy Me a Coffee : Nagasai Ayyala</Text>
                 <Stack direction={'row'} spacing={6}>
-                    <SocialButton label={'Github'} href={'https://github.com/shubhamindev'}>
+                    <SocialButton label={'Github'} href={'https://https://github.com/nagasaiayyala'}>
                         <FaGithub />
                     </SocialButton>
-                    <SocialButton label={'Snapchat'} href={'https://snapchat.com/shubhamr4475'}>
+                    <SocialButton label={'Snapchat'} href={'https://www.linkedin.com/in/nagasai-ayyala-6a8b9928b'}>
                         <FaSnapchat />
                     </SocialButton>
-                    <SocialButton label={'Instagram'} href={'https://instagram.com/shubham_thakur_10000'}>
+                    <SocialButton label={'Instagram'} href={'https://www.instagram.com/nagasaiayyala'}>
                         <FaInstagram />
                     </SocialButton>
                 </Stack>
